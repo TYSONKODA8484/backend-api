@@ -109,10 +109,3 @@ Push to the branch (git push origin feature-branch).
 Open a pull request.
 🛡️ License
 This project is licensed under the MIT License.
-
-👤 Contact
-Author: [Your Name]
-GitHub: TYSONKODA8484
-Email: your-email@example.com
-🎉 Thank You!
-Feel free to explore, use, and contribute to this project! 🚀
