@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Mark Haas",
+        "email": "anthonyfrazier@hotmail.com",
+        "password": "CaY*97BbHV",
+        "_id": "user_1"
+    },
+    {
+        "name": "Hannah Mitchell",
+        "email": "oconway@walsh.com",
+        "password": "Db#kPe4v$2",
+        "_id": "user_2"
+    },
+    {
+        "name": "David Cannon",
+        "email": "fschroeder@gmail.com",
+        "password": "LPNQU)El(0",
+        "_id": "user_3"
+    },
+    {
+        "name": "Anthony Anderson",
+        "email": "tiffany53@gmail.com",
+        "password": "*FtUSpEk6B",
+        "_id": "user_4"
+    },
+    {
+        "name": "Kevin Stephenson",
+        "email": "qesparza@hotmail.com",
+        "password": "^xJz$A(ni4",
+        "_id": "user_5"
+    },
+    {
+        "name": "Joshua Brown",
+        "email": "lori59@harvey-west.com",
+        "password": "q!7iCz)&_x",
+        "_id": "user_6"
+    },
+    {
+        "name": "Justin Taylor",
+        "email": "dana32@gmail.com",
+        "password": "+^8JLmR^e6",
+        "_id": "user_7"
+    },
+    {
+        "name": "Ian Campos",
+        "email": "jason72@hotmail.com",
+        "password": "&uF#KWggb6",
+        "_id": "user_8"
+    },
+    {
+        "name": "Mr. Troy Gamble DDS",
+        "email": "christopherknapp@hotmail.com",
+        "password": "*@^v8Y&f7V",
+        "_id": "user_9"
+    },
+    {
+        "name": "Jonathan Robinson",
+        "email": "christopher40@yahoo.com",
+        "password": "%8$LlM8qtV",
+        "_id": "user_10"
+    }
+]
